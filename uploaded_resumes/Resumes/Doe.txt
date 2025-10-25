@@ -1,0 +1,30 @@
+Resume A – Fresher (0–1 year)
+
+Name: Doe
+Email: johndoe@example.com
+
+Phone: +1 234-567-8901
+Location: New York, USA
+
+Objective:
+Motivated Data Science graduate seeking to apply analytical and programming skills to solve real-world data problems. Eager to learn and contribute to innovative projects.
+
+Education:
+
+B.Sc. in Computer Science, XYZ University, 2024
+
+Relevant Courses: Data Structures, Machine Learning, Statistics, Python Programming
+
+Skills:
+
+Programming: Python, R, SQL
+
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+
+Data Analysis, Visualization, Statistical Modeling
+
+Projects:
+
+Sales Prediction Model: Built a regression model predicting sales using Python and Scikit-learn.
+
+Customer Segmentation: Applied K-means clustering to segment customers based on purchasing behavior.

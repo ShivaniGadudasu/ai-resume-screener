@@ -1,0 +1,18 @@
+John Smith
+Software Engineer | johnsmith@email.com
+
+Summary:
+Software Engineer with a background in developing backend systems. Recently completed a certification in Machine Learning and working on personal data science projects.
+
+Skills:
+- Python, Java, Flask
+- Basic knowledge of scikit-learn, pandas
+- MySQL, MongoDB
+- Git, Docker
+
+Projects:
+- Predictive modeling using scikit-learn (Titanic dataset)
+- Built a REST API for a movie recommendation system
+
+Education:
+B.E. in Computer Engineering

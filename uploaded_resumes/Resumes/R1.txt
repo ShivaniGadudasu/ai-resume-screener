@@ -1,0 +1,20 @@
+Jane Doe
+Data Scientist | jane.doe@email.com
+
+Summary:
+Experienced Data Scientist with 4+ years of experience building predictive models and working with large datasets. Skilled in Python, machine learning, and data visualization.
+
+Skills:
+- Python, pandas, NumPy, scikit-learn
+- TensorFlow, PyTorch
+- SQL, Tableau, Seaborn
+- NLP, text classification
+
+Experience:
+Data Scientist at XYZ Corp (2020 - Present)
+- Built classification models for customer segmentation
+- Worked with cross-functional teams to deploy ML models
+- Used NLP techniques to analyze customer feedback
+
+Education:
+M.S. in Data Science, University of ABC

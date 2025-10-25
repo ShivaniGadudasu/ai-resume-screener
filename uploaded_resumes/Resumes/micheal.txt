@@ -1,0 +1,38 @@
+Resume C – Experienced (5+ years)
+
+Name: Michael Johnson
+Email: michaelj@example.com
+
+Phone: +1 456-789-0123
+Location: Seattle, USA
+
+Profile:
+Senior Data Scientist with 6 years of experience leading data-driven projects, developing ML models, and delivering business insights. Expert in Python, R, SQL, and cloud data platforms.
+
+Professional Experience:
+
+Senior Data Scientist, DataTech Solutions, 2018–Present
+
+Led end-to-end ML projects including predictive maintenance and customer segmentation.
+
+Mentored junior data scientists and implemented best practices for model deployment.
+
+Data Scientist, Insight Analytics, 2015–2018
+
+Built NLP models for sentiment analysis, improving marketing campaigns.
+
+Designed scalable data pipelines on AWS for large datasets.
+
+Skills:
+
+Python, R, SQL, Spark, TensorFlow, PyTorch
+
+Machine Learning, Deep Learning, NLP, Data Visualization
+
+Cloud Platforms: AWS, Azure
+
+Key Projects:
+
+Fraud Detection System: Deployed anomaly detection models reducing fraud by 20%.
+
+Customer Analytics Platform: Developed dashboards and predictive analytics tools for stakeholders.

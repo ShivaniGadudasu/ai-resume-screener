@@ -1,0 +1,34 @@
+Resume B – Intermediate (2–4 years)
+
+Name: Jane Smith
+Email: janesmith@example.com
+
+Phone: +1 345-678-9012
+Location: San Francisco, USA
+
+Summary:
+Data Scientist with 3 years of experience developing predictive models, performing data cleaning, and visualizing insights. Skilled in Python, R, and TensorFlow with a track record of delivering actionable insights.
+
+Experience:
+
+Data Scientist, ABC Corp, 2021–Present
+
+Developed ML models for customer churn prediction, improving retention by 15%.
+
+Automated ETL pipelines, reducing data processing time by 30%.
+
+Data Analyst, XYZ Inc, 2020–2021
+
+Analyzed large datasets and generated dashboards for business decision-making.
+
+Skills:
+
+Python, R, SQL, TensorFlow, Scikit-learn
+
+Data Cleaning, Visualization, Statistical Analysis
+
+Projects:
+
+Recommendation Engine: Built a product recommendation engine using collaborative filtering.
+
+Sales Forecasting Dashboard: Created interactive dashboards using Python and Plotly.
